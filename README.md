@@ -1,2 +1,1 @@
-# naphtha-Sentiment-Analysis-using-TwitterAPI
-Extracting data from twitter using API and performing sentiment analysis on it.
+Google Colab Notebook: https://colab.research.google.com/drive/1PwJ-nezjfWXWwh2JpJfb6Zca_WvsdpdD?usp=sharing
