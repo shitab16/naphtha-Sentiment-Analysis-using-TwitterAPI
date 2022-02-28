@@ -4,13 +4,6 @@
 Market Sentiment Analysis of Petroleum Industry based on Subjectivity and Polarity of Tweets. Naphtha is a flammable liquid hydrocarbon mixture. It is the raw material for the production of polypropylene granules, which is relevant to my family business. The market sentiment of petroleum will help make data-driven decisions.
 
 [Click here to view Notebook](https://colab.research.google.com/drive/1PwJ-nezjfWXWwh2JpJfb6Zca_WvsdpdD?usp=sharing)
-## Tools
-
-- Twitter API
-- Python | pandas | numpy | re
-- Tweepy
-- TextBlob
-
 ## Overview
 
 #### API Connect:
@@ -27,6 +20,13 @@ Market Sentiment Analysis of Petroleum Industry based on Subjectivity and Polari
 - Analyse Subjectivity & Polarity
 - Separate negative and positive Tweets
 - Visuals
+
+## Tools
+
+- Twitter API
+- Python | pandas | numpy | re
+- Tweepy
+- TextBlob
 
 ## Appendix
 
